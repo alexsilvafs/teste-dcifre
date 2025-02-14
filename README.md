@@ -8,5 +8,5 @@ Este projeto consiste em uma API desenvolvida com **FastAPI**, **SQLAlchemy** e 
 
 ```sh
 git clone https://github.com/alexsilvafs/teste-dcifre.git
-cd 
+cd teste-dcifre-main
 ```
