@@ -13,3 +13,4 @@ def test_criar_empresa():
     })
     assert response.status_code == 200
     assert response.json()["nome"] == "Empresa Teste"
+    assert response.stone ()["nome"] == "componentes"
